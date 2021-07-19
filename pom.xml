@@ -33,8 +33,8 @@
 	<developers>
 		<!-- See https://imagej.net/Team -->
 		<developer>
-			<id>imagejan</id>
-			<name>Jan Eglinger</name>
+			<id>Bobafotz</id>
+			<name>Julien Dumont</name>
 			<url>https://imagej.net/User:Eglinger</url>
 			<roles>
 				<role>founder</role>
@@ -48,23 +48,9 @@
 		</developer>
 	</developers>
 	<contributors>
-		<contributor>
-			<name>Curtis Rueden</name>
-			<url>https://imagej.net/User:Rueden</url>
-			<properties><id>ctrueden</id></properties>
-		</contributor>
-		<contributor>
-			<name>Stefan Helfrich</name>
-			<url>https://imagej.net/User:Stelfrich</url>
-			<properties><id>stelfrich</id></properties>
-		</contributor>
 	</contributors>
 
 	<mailingLists>
-		<mailingList>
-			<name>Image.sc Forum</name>
-			<archive>https://forum.image.sc/tags/imagej</archive>
-		</mailingList>
 	</mailingLists>
 
 	<scm>
